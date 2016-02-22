@@ -1,3 +1,7 @@
 # TTLS Developers API
-Tafeltennis Live Scoring (TTLS)
+De TTLS API is alleen bedoeld voor verenigingen en Tafeltennisblogs.<br />
+Misbruik kan een permanente ban tot gevolg hebben!<br />
+Voor vragen en of opmerkingen https://ttls.nl/contact<br />
+<br />
+Alle rechten voorbehouden © 2014 - 2016 | Thom Kemp<br />
 
