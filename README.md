@@ -1,4 +1,4 @@
-# TTLS Developers API
+# TTLS API
 De TTLS API is alleen bedoeld voor verenigingen en Tafeltennisblogs.<br />
 Misbruik kan een permanente ban tot gevolg hebben!<br />
 Voor vragen en of opmerkingen https://ttls.nl/contact<br />
